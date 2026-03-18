@@ -1,4 +1,4 @@
-# Projekt-z-laboratori-w-PiME
+# Projekt-z-laboratorium-PiME
 Mini projekt wykonany podczas zajęć laboratoryjnych z przedmiotu "Projektowanie i Montaż Elektroniki"
 
 Jest to mini projekt wykonany na zaliczenie z części laboratoryjnej przedmiotu "Projektowanie i Montaż Elektroniki".
