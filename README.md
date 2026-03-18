@@ -5,3 +5,4 @@ Jest to mini projekt wykonany na zaliczenie z części laboratoryjnej przedmiotu
 Z racji na wymóg prowadzącego projekt ten był wykonany w Autodesk Eagle.
 Projekt ten wykorzystuje dwa wzmacniacze TD7294 do wzmacniania otrzymywanego sygnału audio.
 Semestr 4
+![](
